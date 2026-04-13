@@ -34,43 +34,43 @@ Este repositório documenta minha jornada através do livro, com foco na resolu�
 
 ### 💡 Logic & Problem Solving | Lógica e Resolução de Problemas
 
-**EN:** Break down problems and design efficient solutions
-**PT:** Dividir problemas e criar soluções eficientes
+- **EN:** Break down problems and design efficient solutions
+- **PT:** Dividir problemas e criar soluções eficientes
 
 ---
 
 ### ⚙️ C Fundamentals | Fundamentos da Linguagem C
 
-**EN:** Variables, types, operators, control structures
-**PT:** Variáveis, tipos, operadores e estruturas de controle
+- **EN:** Variables, types, operators, control structures
+- **PT:** Variáveis, tipos, operadores e estruturas de controle
 
 ---
 
 ### 🔁 Algorithmic Thinking | Pensamento Algorítmico
 
-**EN:** Build structured logic using loops and conditions
-**PT:** Construir lógica estruturada com loops e condicionais
+- **EN:** Build structured logic using loops and conditions
+- **PT:** Construir lógica estruturada com loops e condicionais
 
 ---
 
 ### 🧩 Debugging Skills | Depuração
 
-**EN:** Analyze and fix errors efficiently
-**PT:** Analisar e corrigir erros com eficiência
+- **EN:** Analyze and fix errors efficiently
+- **PT:** Analisar e corrigir erros com eficiência
 
 ---
 
 ### 🧱 Memory Management | Memória
 
-**EN:** Pointers and memory allocation
-**PT:** Ponteiros e alocação de memória
+- **EN:** Pointers and memory allocation
+- **PT:** Ponteiros e alocação de memória
 
 ---
 
 ### 📚 Code Organization | Organização
 
-**EN:** Write clean and modular code
-**PT:** Escrever código limpo e modular
+- **EN:** Write clean and modular code
+- **PT:** Escrever código limpo e modular
 
 ---
 
@@ -109,8 +109,8 @@ Alguns exercícios não possuem respostas, exigindo mais raciocínio e autonomia
   /projects
 ```
 
-**EN:** Organized by chapter, separating exercises and projects
-**PT:** Organizado por capítulo, separando exercícios e projetos
+- **EN:** Organized by chapter, separating exercises and projects
+- **PT:** Organizado por capítulo, separando exercícios e projetos
 
 ---
 
